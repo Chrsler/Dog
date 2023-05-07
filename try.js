@@ -1,7 +1,7 @@
 var swiper = new Swiper(".course-slider", {
     spaceBetween: 20,
     grabCursor: true,
-    loop: true,
+    
     pagination: {
         el: ".swiper-pagination",
         clickable: true,
